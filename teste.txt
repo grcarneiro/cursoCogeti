@@ -1,3 +1,4 @@
 teste do curso git, faltou essa parte!!!
 VAMOS FAZER ESTE TESTE DE DIFF
 modificado denovo
+Guilherme
